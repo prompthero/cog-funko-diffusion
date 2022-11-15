@@ -12,13 +12,13 @@ $ cd weights
 $ git lfs install
 $ git clone https://huggingface.co/prompthero/funko-diffusion
 ```
-### Change the model name in predict.py
+### Change the model name and the prompt in predict.py
 
-### Create a Docker image
+### Create a Docker and a cog image
 ```
-docker build -t funko
+$ docker build --tag funko .
+$ cog build -t funko
 ```
-
 ### Create a model in Replicate
 
 ### Publish your model
