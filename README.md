@@ -1,8 +1,8 @@
-# Poolsuite Diffusion for Replicate API
+# Funko Diffusion for Replicate API
 
 Model: [Funko Diffusion](https://huggingface.co/prompthero/funko-diffusion) 
 
-Author: [@prompthero](prompthero.com)
+Author: [@prompthero](https://prompthero.com)
 
 
 ### Download the weights:
